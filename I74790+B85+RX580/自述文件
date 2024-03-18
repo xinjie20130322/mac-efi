@@ -1,12 +1,12 @@
 此OC引导为0.9.5版本，可以安装最新的macOS Sonoma 14.0 
 
 配置要求
-  处理器  I7 4790
-  主板    华硕B85M-F Plus
-  内存    DDR4  1600Mhz
-  显卡    AMD RX570 
-  声卡    Realtek ALC 887
-  网卡    Realtcek PCIe Gbe Family Controller
+  处理器    I7 4790
+  主  板    华硕B85M-F Plus
+  内  存    DDR4  1600Mhz
+  显  卡    AMD RX570 
+  声  卡    Realtek ALC 887
+  网  卡    Realtcek PCIe Gbe Family Controller
 
 BIOS设置
   1.Boot - Fast Boot -> Disabled 开始这么设置，最后设置为Enable.
