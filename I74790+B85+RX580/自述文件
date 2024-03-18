@@ -14,5 +14,4 @@ BIOS设置
   3.Advanced - PCH Sorage Configuration - SATA Mode Selection -> AHCI
   4.Advanced - System Agent (SA) configuration - VT-D -> Disabled
   5.Advanced - CPU configuration - Intel Virtualization -> disabled 虚拟机设置，最后我按照油管上的教程选择是Enable,这个自己试试
-
 这个efi,是我在黑苹果社区上找到的，因本人机器是精粤的B85-I，所以没安装成功，卡BP了，，，如果有需要的话可以自己试试，卡BP什么自己捣鼓下，本人也是个半懂不懂的，，
